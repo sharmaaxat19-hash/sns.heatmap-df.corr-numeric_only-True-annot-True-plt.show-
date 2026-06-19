@@ -1,6 +1,6 @@
 # 🎓 Student Depression Predictor
 
-A Machine Learning project that predicts student marks based on study-related factors such as study hours, attendance, and previous academic performance.
+A Machine Learning project that predicts student depression based on study-related factors such as study hours, attendance, and previous academic performance.
 
 ## 📌 Project Overview
 
